@@ -1,0 +1,16 @@
+- Forecast Display:
+    - Fetch and display a multi-day weather forecast for the selected city. You can show data like minimum and maximum temperatures, weather conditions, and icons representing the weather.
+- Unit Conversion:
+    - Add functionality to toggle between different units for temperature, such as Celsius and Fahrenheit.
+- Error Handling:
+    - Improve the error handling to display a meaningful message when the API request fails or the city name is not found.
+- Loading Indicator:
+    - Show a loading spinner or indicator while the weather data is being fetched to provide feedback to the user.
+- Search Autocomplete:
+    - Implement an autocomplete feature for the city search input to help users find and select cities more easily.
+- Background Images:
+    - Change the background image of the app based on the current weather conditions, such as sunny, rainy, snowy, etc.
+- Weather Icons:
+    - Instead of displaying weather descriptions, use weather icons (like sun, clouds, raindrops) to represent the weather conditions visually.
+- Historical Weather Data:
+    - Allow users to view historical weather data for a specific city on a selected date.
